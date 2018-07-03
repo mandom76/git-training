@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_q61oQX5yEeiUmZgsTkV4IA" label="labs1" description="" language="java" technicalLabel="LABS1" creationDate="2018-07-03T13:30:51.020+1000" author="_q61oQn5yEeiUmZgsTkV4IA" productVersion="TIBCO Jaspersoft ETL-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/mandom76/git-training&quot;,&quot;login&quot;:&quot;mandom76&quot;,&quot;passwd&quot;:&quot;Exmx9SCnu0FDpMHoe+3KcA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+  <TalendProperties:Project xmi:id="_q61oQX5yEeiUmZgsTkV4IA" label="labs1" description="" language="java" technicalLabel="LABS1" creationDate="2018-07-03T13:30:51.020+1000" author="_q61oQn5yEeiUmZgsTkV4IA" productVersion="TIBCO Jaspersoft ETL-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/mandom76/git-training&quot;,&quot;login&quot;:&quot;mandom76&quot;,&quot;passwd&quot;:&quot;Exmx9SCnu0FDpMHoe+3KcA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+    <technicalStatus xmi:id="_rZsHcH5yEeiUmZgsTkV4IA" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_rZsHcX5yEeiUmZgsTkV4IA" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_rZsHcn5yEeiUmZgsTkV4IA" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_rZiWcH5yEeiUmZgsTkV4IA" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_rZiWcX5yEeiUmZgsTkV4IA" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_rZiWcn5yEeiUmZgsTkV4IA" label="validated" code="VAL"/>
     <migrationTask xmi:id="_rYWDoH5yEeiUmZgsTkV4IA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_rYWDoX5yEeiUmZgsTkV4IA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_rYWDon5yEeiUmZgsTkV4IA" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
@@ -20,4 +26,7 @@
     <migrationTask xmi:id="_rYWDsH5yEeiUmZgsTkV4IA" id="org.talend.repository.model.migration.AddJavaVersionMigrationTask" breaks="6.3.1" version="6.4.0" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_q61oQn5yEeiUmZgsTkV4IA" login="vchiem@tibco.com" firstName="Vincent" lastName="Chiem" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_rZ_pcH5yEeiUmZgsTkV4IA" login="gituser@company.com" firstName="Git" lastName="User" type="DI" additionnalData="{}">
+    <projectAuthorization href="../C:/Jaspersoft/6.4.1/studio/#/2"/>
+  </TalendProperties:User>
 </xmi:XMI>
