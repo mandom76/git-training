@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_q61oQX5yEeiUmZgsTkV4IA" label="labs1" description="" language="java" technicalLabel="LABS1" creationDate="2018-07-03T13:30:51.020+1000" author="_q61oQn5yEeiUmZgsTkV4IA" productVersion="TIBCO Jaspersoft ETL-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/mandom76/git-training&quot;,&quot;login&quot;:&quot;mandom76&quot;,&quot;passwd&quot;:&quot;Exmx9SCnu0FDpMHoe+3KcA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_q61oQn5yEeiUmZgsTkV4IA" login="vchiem@tibco.com" firstName="Vincent" lastName="Chiem" type="DI" additionnalData="{}"/>
+</xmi:XMI>
